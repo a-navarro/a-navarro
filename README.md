@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Antonio Navarro
 👩🏻‍💻 College student sharing about my journey and learnings in tech <br>
-👩🏻‍🎓 Studying Computer Science at the Pontifical Catholic University of Chile (UC Chile) <br>
-💭 Currently learning about Data Structures & Algorithms in Depth!<br>
+👩🏻‍🎓 Studying Computer Science at UC Chile <br>
+💭 Currently learning about Quantum Computing & Information!<br>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-navarro&theme=merko&show_icons=true) <br>
