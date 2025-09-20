@@ -4,7 +4,7 @@
 💭 Currently learning about Quantum Computing & Information!<br>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-navarro&theme=merko&show_icons=true) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-navarro&theme=merko&show_icons=true&rank_icon=github&include_all_commits=true) <br>
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
 # 💻 Tech Stack
